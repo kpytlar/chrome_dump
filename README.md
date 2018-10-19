@@ -9,8 +9,7 @@ to create a Stitch app name, db, and collection.
 In config.json add your Stitch app name, db, and collection.
 
 Now add this chrome extension by navigating to chrome://extensions.  Turn on 'Developer Mode' (top right).
-Click 'Load Unpacked' and select the folder on your computer this repo is cloned in.  
-Now your chrome extension will be showing in your Chrome Browser.
+Click 'Load Unpacked' and select the folder on your computer this repo is cloned in.  Now your chrome extension will be showing in your Chrome Browser.
 
 ## Use
 A good place to search for datasets to insert into your MongoDB collection
