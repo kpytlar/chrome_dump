@@ -1,0 +1,5 @@
+{
+    "STITCH_APP": <stitch-app>,
+    "DB": <db>,
+    "COLLECTION": <collection>
+}

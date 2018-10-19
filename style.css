@@ -1,0 +1,43 @@
+
+html {
+	box-sizing: border-box;
+}
+
+body {
+    height: 250px;
+    width: 250px;
+	font-size: 0.95rem;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	line-height: 1.5;
+}
+
+.content {
+    margin: 5px auto;
+    width: 94%;
+    max-width: 640px;
+    text-align: center;
+}
+
+.buttonContainer {
+    height: 30px;
+}
+
+.button {
+    width: 150px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 0.217rem;
+    background-color: #168B46;
+    color: #F5F6F7;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1rem;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.button:hover {
+	opacity: 0.85;
+}

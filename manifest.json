@@ -1,0 +1,23 @@
+{
+  "name": "MongoDB Dump",
+  "version": "1.0",
+  "description": "Add data from your browser to your MongoDB collection",
+  "permissions": ["activeTab", "declarativeContent"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/mongodb_16.png",
+      "32": "images/mongodb_32.png",
+      "48": "images/mongodb_48.png",
+      "128": "images/mongodb_128.png"
+    },
+    "icons": {
+      "16": "images/mongodb_16.png",
+      "32": "images/mongodb_32.png",
+      "48": "images/mongodb_48.png",
+      "128": "images/mongodb_128.png"
+    }
+  },
+  "content_security_policy": "script-src 'self' https://s3.amazonaws.com/stitch-sdks/js/bundles/4.0.8/stitch.js; object-src 'self'",
+  "manifest_version": 2
+}
