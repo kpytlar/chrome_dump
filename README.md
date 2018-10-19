@@ -1,6 +1,6 @@
 # chrome_dump
 
-Dump data seamlessly into a Mongodb collection from your browser.
+Dump data seamlessly into a Mongodb collection from your browser using a Chrome Extension.
 
 ## Setup
 Create a MongoDB Atlas Cluster, attach a Stitch application, and go through the 'Getting Started' page on the Stitch App landing page
